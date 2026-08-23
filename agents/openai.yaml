@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Sourcing"
+  short_description: "Source and compare products and suppliers across industries"
+  default_prompt: "Use $product-sourcing to find and verify products or suppliers that satisfy my specifications, budget, quantity, and delivery constraints."
